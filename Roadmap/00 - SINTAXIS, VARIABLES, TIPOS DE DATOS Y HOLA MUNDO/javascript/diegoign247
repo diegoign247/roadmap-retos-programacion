@@ -1,0 +1,26 @@
+// URL :https://lenguajejs.com/javascript/
+
+// una linea
+
+/* varias
+lineas
+*/
+
+let variablee = "Hola"
+const fijo = 3.14
+
+// Datos primitivos
+
+let entero = 12
+let texto = "Hola"
+let boleano = true
+let simbolo = Symbol("hola")
+let camioneta;
+let nulll = null
+let big_int = 32423492349239492349234n
+let decimal = 1.5
+let myUndefined = undefined
+
+
+let myLenjuage = 'JavaScript'
+console.log(`¡Hola, ${myLenjuage}`);
